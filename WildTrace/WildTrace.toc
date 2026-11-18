@@ -1,0 +1,43 @@
+## Interface: 30300
+## Title: WildTrace
+## Notes: Rare and elite creature hunting tracker for WoW 3.3.5a.
+## Version: 0.14.2
+## SavedVariables: WildTraceDB
+## SavedVariablesPerCharacter: WildTraceCharacterDB
+
+Core\Core.lua
+Core\Database.lua
+Core\SavedVariables.lua
+Data\EasternKingdoms\Alterac.lua
+Data\EasternKingdoms\Arathi.lua
+Data\EasternKingdoms\Badlands.lua
+Data\EasternKingdoms\BlastedLands.lua
+Data\EasternKingdoms\BurningSteppes.lua
+Data\EasternKingdoms\DunMorogh.lua
+Data\EasternKingdoms\Duskwood.lua
+Data\EasternKingdoms\EasternPlaguelands.lua
+Data\EasternKingdoms\Elwynn.lua
+Data\EasternKingdoms\EversongWoods.lua
+Data\EasternKingdoms\Ghostlands.lua
+Data\EasternKingdoms\Hillsbrad.lua
+Data\EasternKingdoms\Hinterlands.lua
+Data\EasternKingdoms\LochModan.lua
+Data\EasternKingdoms\Redridge.lua
+Data\EasternKingdoms\SearingGorge.lua
+Data\EasternKingdoms\Silverpine.lua
+Data\EasternKingdoms\Stranglethorn.lua
+Data\EasternKingdoms\SwampOfSorrows.lua
+Data\EasternKingdoms\Tirisfal.lua
+Data\EasternKingdoms\WesternPlaguelands.lua
+Data\EasternKingdoms\Westfall.lua
+Data\EasternKingdoms\Wetlands.lua
+Data\Kalimdor\ThousandNeedles.lua
+Core\Localization.lua
+UI\Filters.lua
+UI\Tooltip.lua
+Core\Tracker.lua
+UI\ModelPreview.lua
+Core\ModelScanner.lua
+UI\List.lua
+UI\Minimap.lua
+UI\Map.lua
